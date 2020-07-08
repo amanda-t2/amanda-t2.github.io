@@ -1,15 +1,8 @@
-<html>
-<head>
-<style>
-
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 50%;
     background-color: #c79288;
 }
-</style>
-</head>
-<body>
 
 nav ul, footer ul {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
@@ -50,7 +43,3 @@ ul.posts {
 ul.posts li {
    display: inline;
 }
-
-
-</body>
-</html>
