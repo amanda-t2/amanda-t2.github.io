@@ -1,8 +1,8 @@
-{background-color: #c79288;} 
 
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #c79288;
 }
 nav ul, footer ul {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
