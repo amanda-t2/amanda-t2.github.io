@@ -1,11 +1,11 @@
-{background-color: #8c8c8c;} 
+{background-color: #C79288;} 
 
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: "Times New Roman", Times, serif;
+    font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
     padding: 0px;
     list-style: none;
     font-weight: bold;
