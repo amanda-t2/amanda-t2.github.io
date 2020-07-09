@@ -32,7 +32,7 @@ p {
     color: #FFFFFF;
 }
 
-.custom {
+p.custom {
    padding:10;
    color: #d5d5d5;
   }
