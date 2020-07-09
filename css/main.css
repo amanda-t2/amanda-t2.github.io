@@ -33,7 +33,7 @@ p {
 }
 
 .custom {
-   padding:0;
+   padding:10;
    color: #d5d5d5;
   }
 
@@ -54,7 +54,7 @@ footer {
 }    
 
 ul.posts { 
-    margin: 2px auto 4px; 
+    margin: 20px auto 40px; 
     font-size: 1.0em;
     color: #FFFFFF;
 
