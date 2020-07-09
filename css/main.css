@@ -56,8 +56,12 @@ footer {
 ul.posts { 
     margin: 2px auto 4px; 
     font-size: 1.0em;
+    color: #FFFFFF;
+
 }
 
 ul.posts li {
    display: inline;
+   color: #FFFFFF;
+
 }
