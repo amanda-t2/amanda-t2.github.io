@@ -33,7 +33,7 @@ p {
 }
 
 ul.custom {
-    color: #FFFFFF;
+    color: #000000;
     padding: 0px;
 }
 
@@ -58,10 +58,6 @@ ul.posts {
     font-size: 1.0em;
     color: #FFFFFF;
 
-}
-
-.projects {
-    background-color: #FFFFFF;
 }
 
 ul.posts li {
